@@ -1,0 +1,12 @@
+Core Concepts used are
+
+
+File handling
+Exception handling
+User input/output
+Looping (while loop)
+Conditional statements (switch case)
+Collections (ArrayList)
+Sorting (Collections.sort())
+Writing/reading to/from files (FileWriter, Scanner)
+Methods (main(), exists(), createNewFile(), delete())

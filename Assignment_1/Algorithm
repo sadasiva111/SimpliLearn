@@ -1,0 +1,22 @@
+Algorithm:
+
+Import required Java packages like: File, FileNotFoundException, FileWriter, IOException, Scanner etc.
+Declare a Scanner object named scanner to get the user input.
+Display the developer and application details.
+Display the welcome screen.
+Create a while loop with true condition.
+Inside the loop, create an ArrayList of options and add menu options to the ArrayList.
+Display the menu options to the user.
+Get the user input and store it in a variable named input.
+Create a switch case statement based on the user input.
+Case “1”: List all the files in the current directory in ascending order and display them to the user.
+Case “2”: Get the name of the file from the user and check if the file already exists. If the file doesn’t exist, create a new file with the specified name and write the content entered by the user to the file. Display a message indicating that the file has been added successfully.
+Case “3”: Get the name of the file from the user and check if the file exists. If the file exists, delete it and display a message indicating that the file has been deleted successfully. If the file doesn’t exist, display a message indicating that the file doesn’t exist.
+Case “4”: Get the name of the file from the user and check if the file exists. If the file exists, display a message indicating that the file has been found. If the file doesn’t exist, display a message indicating that the file doesn’t exist.
+Case “5”: Exit the application.
+Ask the user if they want to continue or quit.
+Get the user input and store it in a variable named input.
+If the input is “q”, exit the application.
+If the input is not “c”, display a message indicating that the input is invalid.
+End of the while loop.
+
